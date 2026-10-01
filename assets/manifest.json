@@ -1,0 +1,550 @@
+{
+  "generator": "lumicorepro-design-engine",
+  "project": "build",
+  "style": "glassmorphism",
+  "generated_at": "2026-09-14T22:02:17Z",
+  "license": "All assets are self-generated original vector artwork (public-domain equivalent). No stock, no scraped, and no copyrighted material.",
+  "count": 27,
+  "assets": [
+    {
+      "file": "assets/glassmorphism/hero/hero-1.svg",
+      "category": "hero",
+      "style": "glassmorphism",
+      "title": "Build Hero",
+      "prompt": "Abstract hero for a Glassmorphism styled website; palette #a1a1aa, #818cf8, #a78bfa, #0b1220, rgba(255,255,255,0.06), rgba(255,255,255,0.04), #f8fafc, #94a3b8, rgba(255,255,255,0.12); frosted glass, backdrop blur, translucent overlapping cards.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#a1a1aa",
+        "#818cf8",
+        "#a78bfa",
+        "#0b1220",
+        "rgba(255,255,255,0.06)",
+        "rgba(255,255,255,0.04)",
+        "#f8fafc",
+        "#94a3b8",
+        "rgba(255,255,255,0.12)"
+      ],
+      "seed": 2441708727
+    },
+    {
+      "file": "assets/glassmorphism/hero/hero-2.svg",
+      "category": "hero",
+      "style": "glassmorphism",
+      "title": "Build Hero",
+      "prompt": "Abstract hero for a Glassmorphism styled website; palette #a1a1aa, #818cf8, #a78bfa, #0b1220, rgba(255,255,255,0.06), rgba(255,255,255,0.04), #f8fafc, #94a3b8, rgba(255,255,255,0.12); frosted glass, backdrop blur, translucent overlapping cards.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#a1a1aa",
+        "#818cf8",
+        "#a78bfa",
+        "#0b1220",
+        "rgba(255,255,255,0.06)",
+        "rgba(255,255,255,0.04)",
+        "#f8fafc",
+        "#94a3b8",
+        "rgba(255,255,255,0.12)"
+      ],
+      "seed": 2441708727
+    },
+    {
+      "file": "assets/glassmorphism/hero/hero-3.svg",
+      "category": "hero",
+      "style": "glassmorphism",
+      "title": "Build Hero",
+      "prompt": "Abstract hero for a Glassmorphism styled website; palette #a1a1aa, #818cf8, #a78bfa, #0b1220, rgba(255,255,255,0.06), rgba(255,255,255,0.04), #f8fafc, #94a3b8, rgba(255,255,255,0.12); frosted glass, backdrop blur, translucent overlapping cards.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#a1a1aa",
+        "#818cf8",
+        "#a78bfa",
+        "#0b1220",
+        "rgba(255,255,255,0.06)",
+        "rgba(255,255,255,0.04)",
+        "#f8fafc",
+        "#94a3b8",
+        "rgba(255,255,255,0.12)"
+      ],
+      "seed": 2441708727
+    },
+    {
+      "file": "assets/glassmorphism/hero/hero-4.svg",
+      "category": "hero",
+      "style": "glassmorphism",
+      "title": "Build Hero",
+      "prompt": "Abstract hero for a Glassmorphism styled website; palette #a1a1aa, #818cf8, #a78bfa, #0b1220, rgba(255,255,255,0.06), rgba(255,255,255,0.04), #f8fafc, #94a3b8, rgba(255,255,255,0.12); frosted glass, backdrop blur, translucent overlapping cards.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#a1a1aa",
+        "#818cf8",
+        "#a78bfa",
+        "#0b1220",
+        "rgba(255,255,255,0.06)",
+        "rgba(255,255,255,0.04)",
+        "#f8fafc",
+        "#94a3b8",
+        "rgba(255,255,255,0.12)"
+      ],
+      "seed": 2441708727
+    },
+    {
+      "file": "assets/glassmorphism/icons/icon-1.svg",
+      "category": "icons",
+      "style": "glassmorphism",
+      "title": "Build Icons Icon 1",
+      "prompt": "Abstract icons for a Glassmorphism styled website; palette #a1a1aa, #818cf8, #a78bfa, #0b1220, rgba(255,255,255,0.06), rgba(255,255,255,0.04), #f8fafc, #94a3b8, rgba(255,255,255,0.12); frosted glass, backdrop blur, translucent overlapping cards.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#a1a1aa",
+        "#818cf8",
+        "#a78bfa",
+        "#0b1220",
+        "rgba(255,255,255,0.06)",
+        "rgba(255,255,255,0.04)",
+        "#f8fafc",
+        "#94a3b8",
+        "rgba(255,255,255,0.12)"
+      ],
+      "seed": 2441708727
+    },
+    {
+      "file": "assets/glassmorphism/icons/icon-2.svg",
+      "category": "icons",
+      "style": "glassmorphism",
+      "title": "Build Icons Icon 2",
+      "prompt": "Abstract icons for a Glassmorphism styled website; palette #a1a1aa, #818cf8, #a78bfa, #0b1220, rgba(255,255,255,0.06), rgba(255,255,255,0.04), #f8fafc, #94a3b8, rgba(255,255,255,0.12); frosted glass, backdrop blur, translucent overlapping cards.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#a1a1aa",
+        "#818cf8",
+        "#a78bfa",
+        "#0b1220",
+        "rgba(255,255,255,0.06)",
+        "rgba(255,255,255,0.04)",
+        "#f8fafc",
+        "#94a3b8",
+        "rgba(255,255,255,0.12)"
+      ],
+      "seed": 2441708727
+    },
+    {
+      "file": "assets/glassmorphism/icons/icon-3.svg",
+      "category": "icons",
+      "style": "glassmorphism",
+      "title": "Build Icons Icon 3",
+      "prompt": "Abstract icons for a Glassmorphism styled website; palette #a1a1aa, #818cf8, #a78bfa, #0b1220, rgba(255,255,255,0.06), rgba(255,255,255,0.04), #f8fafc, #94a3b8, rgba(255,255,255,0.12); frosted glass, backdrop blur, translucent overlapping cards.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#a1a1aa",
+        "#818cf8",
+        "#a78bfa",
+        "#0b1220",
+        "rgba(255,255,255,0.06)",
+        "rgba(255,255,255,0.04)",
+        "#f8fafc",
+        "#94a3b8",
+        "rgba(255,255,255,0.12)"
+      ],
+      "seed": 2441708727
+    },
+    {
+      "file": "assets/glassmorphism/icons/icon-4.svg",
+      "category": "icons",
+      "style": "glassmorphism",
+      "title": "Build Icons Icon 4",
+      "prompt": "Abstract icons for a Glassmorphism styled website; palette #a1a1aa, #818cf8, #a78bfa, #0b1220, rgba(255,255,255,0.06), rgba(255,255,255,0.04), #f8fafc, #94a3b8, rgba(255,255,255,0.12); frosted glass, backdrop blur, translucent overlapping cards.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#a1a1aa",
+        "#818cf8",
+        "#a78bfa",
+        "#0b1220",
+        "rgba(255,255,255,0.06)",
+        "rgba(255,255,255,0.04)",
+        "#f8fafc",
+        "#94a3b8",
+        "rgba(255,255,255,0.12)"
+      ],
+      "seed": 2441708727
+    },
+    {
+      "file": "assets/glassmorphism/icons/icon-5.svg",
+      "category": "icons",
+      "style": "glassmorphism",
+      "title": "Build Icons Icon 5",
+      "prompt": "Abstract icons for a Glassmorphism styled website; palette #a1a1aa, #818cf8, #a78bfa, #0b1220, rgba(255,255,255,0.06), rgba(255,255,255,0.04), #f8fafc, #94a3b8, rgba(255,255,255,0.12); frosted glass, backdrop blur, translucent overlapping cards.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#a1a1aa",
+        "#818cf8",
+        "#a78bfa",
+        "#0b1220",
+        "rgba(255,255,255,0.06)",
+        "rgba(255,255,255,0.04)",
+        "#f8fafc",
+        "#94a3b8",
+        "rgba(255,255,255,0.12)"
+      ],
+      "seed": 2441708727
+    },
+    {
+      "file": "assets/glassmorphism/icons/icon-6.svg",
+      "category": "icons",
+      "style": "glassmorphism",
+      "title": "Build Icons Icon 6",
+      "prompt": "Abstract icons for a Glassmorphism styled website; palette #a1a1aa, #818cf8, #a78bfa, #0b1220, rgba(255,255,255,0.06), rgba(255,255,255,0.04), #f8fafc, #94a3b8, rgba(255,255,255,0.12); frosted glass, backdrop blur, translucent overlapping cards.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#a1a1aa",
+        "#818cf8",
+        "#a78bfa",
+        "#0b1220",
+        "rgba(255,255,255,0.06)",
+        "rgba(255,255,255,0.04)",
+        "#f8fafc",
+        "#94a3b8",
+        "rgba(255,255,255,0.12)"
+      ],
+      "seed": 2441708727
+    },
+    {
+      "file": "assets/glassmorphism/icons/icon-7.svg",
+      "category": "icons",
+      "style": "glassmorphism",
+      "title": "Build Icons Icon 7",
+      "prompt": "Abstract icons for a Glassmorphism styled website; palette #a1a1aa, #818cf8, #a78bfa, #0b1220, rgba(255,255,255,0.06), rgba(255,255,255,0.04), #f8fafc, #94a3b8, rgba(255,255,255,0.12); frosted glass, backdrop blur, translucent overlapping cards.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#a1a1aa",
+        "#818cf8",
+        "#a78bfa",
+        "#0b1220",
+        "rgba(255,255,255,0.06)",
+        "rgba(255,255,255,0.04)",
+        "#f8fafc",
+        "#94a3b8",
+        "rgba(255,255,255,0.12)"
+      ],
+      "seed": 2441708727
+    },
+    {
+      "file": "assets/glassmorphism/icons/icon-8.svg",
+      "category": "icons",
+      "style": "glassmorphism",
+      "title": "Build Icons Icon 8",
+      "prompt": "Abstract icons for a Glassmorphism styled website; palette #a1a1aa, #818cf8, #a78bfa, #0b1220, rgba(255,255,255,0.06), rgba(255,255,255,0.04), #f8fafc, #94a3b8, rgba(255,255,255,0.12); frosted glass, backdrop blur, translucent overlapping cards.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#a1a1aa",
+        "#818cf8",
+        "#a78bfa",
+        "#0b1220",
+        "rgba(255,255,255,0.06)",
+        "rgba(255,255,255,0.04)",
+        "#f8fafc",
+        "#94a3b8",
+        "rgba(255,255,255,0.12)"
+      ],
+      "seed": 2441708727
+    },
+    {
+      "file": "assets/glassmorphism/icons/icon-9.svg",
+      "category": "icons",
+      "style": "glassmorphism",
+      "title": "Build Icons Icon 9",
+      "prompt": "Abstract icons for a Glassmorphism styled website; palette #a1a1aa, #818cf8, #a78bfa, #0b1220, rgba(255,255,255,0.06), rgba(255,255,255,0.04), #f8fafc, #94a3b8, rgba(255,255,255,0.12); frosted glass, backdrop blur, translucent overlapping cards.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#a1a1aa",
+        "#818cf8",
+        "#a78bfa",
+        "#0b1220",
+        "rgba(255,255,255,0.06)",
+        "rgba(255,255,255,0.04)",
+        "#f8fafc",
+        "#94a3b8",
+        "rgba(255,255,255,0.12)"
+      ],
+      "seed": 2441708727
+    },
+    {
+      "file": "assets/glassmorphism/icons/icon-10.svg",
+      "category": "icons",
+      "style": "glassmorphism",
+      "title": "Build Icons Icon 10",
+      "prompt": "Abstract icons for a Glassmorphism styled website; palette #a1a1aa, #818cf8, #a78bfa, #0b1220, rgba(255,255,255,0.06), rgba(255,255,255,0.04), #f8fafc, #94a3b8, rgba(255,255,255,0.12); frosted glass, backdrop blur, translucent overlapping cards.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#a1a1aa",
+        "#818cf8",
+        "#a78bfa",
+        "#0b1220",
+        "rgba(255,255,255,0.06)",
+        "rgba(255,255,255,0.04)",
+        "#f8fafc",
+        "#94a3b8",
+        "rgba(255,255,255,0.12)"
+      ],
+      "seed": 2441708727
+    },
+    {
+      "file": "assets/glassmorphism/icons/icon-11.svg",
+      "category": "icons",
+      "style": "glassmorphism",
+      "title": "Build Icons Icon 11",
+      "prompt": "Abstract icons for a Glassmorphism styled website; palette #a1a1aa, #818cf8, #a78bfa, #0b1220, rgba(255,255,255,0.06), rgba(255,255,255,0.04), #f8fafc, #94a3b8, rgba(255,255,255,0.12); frosted glass, backdrop blur, translucent overlapping cards.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#a1a1aa",
+        "#818cf8",
+        "#a78bfa",
+        "#0b1220",
+        "rgba(255,255,255,0.06)",
+        "rgba(255,255,255,0.04)",
+        "#f8fafc",
+        "#94a3b8",
+        "rgba(255,255,255,0.12)"
+      ],
+      "seed": 2441708727
+    },
+    {
+      "file": "assets/glassmorphism/icons/icon-12.svg",
+      "category": "icons",
+      "style": "glassmorphism",
+      "title": "Build Icons Icon 12",
+      "prompt": "Abstract icons for a Glassmorphism styled website; palette #a1a1aa, #818cf8, #a78bfa, #0b1220, rgba(255,255,255,0.06), rgba(255,255,255,0.04), #f8fafc, #94a3b8, rgba(255,255,255,0.12); frosted glass, backdrop blur, translucent overlapping cards.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#a1a1aa",
+        "#818cf8",
+        "#a78bfa",
+        "#0b1220",
+        "rgba(255,255,255,0.06)",
+        "rgba(255,255,255,0.04)",
+        "#f8fafc",
+        "#94a3b8",
+        "rgba(255,255,255,0.12)"
+      ],
+      "seed": 2441708727
+    },
+    {
+      "file": "assets/glassmorphism/backgrounds/bg-1.svg",
+      "category": "backgrounds",
+      "style": "glassmorphism",
+      "title": "Build Backgrounds Background 1",
+      "prompt": "Abstract backgrounds for a Glassmorphism styled website; palette #a1a1aa, #818cf8, #a78bfa, #0b1220, rgba(255,255,255,0.06), rgba(255,255,255,0.04), #f8fafc, #94a3b8, rgba(255,255,255,0.12); frosted glass, backdrop blur, translucent overlapping cards.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#a1a1aa",
+        "#818cf8",
+        "#a78bfa",
+        "#0b1220",
+        "rgba(255,255,255,0.06)",
+        "rgba(255,255,255,0.04)",
+        "#f8fafc",
+        "#94a3b8",
+        "rgba(255,255,255,0.12)"
+      ],
+      "seed": 2441708727
+    },
+    {
+      "file": "assets/glassmorphism/backgrounds/bg-2.svg",
+      "category": "backgrounds",
+      "style": "glassmorphism",
+      "title": "Build Backgrounds Background 2",
+      "prompt": "Abstract backgrounds for a Glassmorphism styled website; palette #a1a1aa, #818cf8, #a78bfa, #0b1220, rgba(255,255,255,0.06), rgba(255,255,255,0.04), #f8fafc, #94a3b8, rgba(255,255,255,0.12); frosted glass, backdrop blur, translucent overlapping cards.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#a1a1aa",
+        "#818cf8",
+        "#a78bfa",
+        "#0b1220",
+        "rgba(255,255,255,0.06)",
+        "rgba(255,255,255,0.04)",
+        "#f8fafc",
+        "#94a3b8",
+        "rgba(255,255,255,0.12)"
+      ],
+      "seed": 2441708727
+    },
+    {
+      "file": "assets/glassmorphism/backgrounds/bg-3.svg",
+      "category": "backgrounds",
+      "style": "glassmorphism",
+      "title": "Build Backgrounds Background 3",
+      "prompt": "Abstract backgrounds for a Glassmorphism styled website; palette #a1a1aa, #818cf8, #a78bfa, #0b1220, rgba(255,255,255,0.06), rgba(255,255,255,0.04), #f8fafc, #94a3b8, rgba(255,255,255,0.12); frosted glass, backdrop blur, translucent overlapping cards.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#a1a1aa",
+        "#818cf8",
+        "#a78bfa",
+        "#0b1220",
+        "rgba(255,255,255,0.06)",
+        "rgba(255,255,255,0.04)",
+        "#f8fafc",
+        "#94a3b8",
+        "rgba(255,255,255,0.12)"
+      ],
+      "seed": 2441708727
+    },
+    {
+      "file": "assets/glassmorphism/illustrations/illustration-1.svg",
+      "category": "illustrations",
+      "style": "glassmorphism",
+      "title": "Build Illustrations Illustration 1",
+      "prompt": "Abstract illustrations for a Glassmorphism styled website; palette #a1a1aa, #818cf8, #a78bfa, #0b1220, rgba(255,255,255,0.06), rgba(255,255,255,0.04), #f8fafc, #94a3b8, rgba(255,255,255,0.12); frosted glass, backdrop blur, translucent overlapping cards.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#a1a1aa",
+        "#818cf8",
+        "#a78bfa",
+        "#0b1220",
+        "rgba(255,255,255,0.06)",
+        "rgba(255,255,255,0.04)",
+        "#f8fafc",
+        "#94a3b8",
+        "rgba(255,255,255,0.12)"
+      ],
+      "seed": 2441708727
+    },
+    {
+      "file": "assets/glassmorphism/illustrations/illustration-2.svg",
+      "category": "illustrations",
+      "style": "glassmorphism",
+      "title": "Build Illustrations Illustration 2",
+      "prompt": "Abstract illustrations for a Glassmorphism styled website; palette #a1a1aa, #818cf8, #a78bfa, #0b1220, rgba(255,255,255,0.06), rgba(255,255,255,0.04), #f8fafc, #94a3b8, rgba(255,255,255,0.12); frosted glass, backdrop blur, translucent overlapping cards.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#a1a1aa",
+        "#818cf8",
+        "#a78bfa",
+        "#0b1220",
+        "rgba(255,255,255,0.06)",
+        "rgba(255,255,255,0.04)",
+        "#f8fafc",
+        "#94a3b8",
+        "rgba(255,255,255,0.12)"
+      ],
+      "seed": 2441708727
+    },
+    {
+      "file": "assets/glassmorphism/illustrations/illustration-3.svg",
+      "category": "illustrations",
+      "style": "glassmorphism",
+      "title": "Build Illustrations Illustration 3",
+      "prompt": "Abstract illustrations for a Glassmorphism styled website; palette #a1a1aa, #818cf8, #a78bfa, #0b1220, rgba(255,255,255,0.06), rgba(255,255,255,0.04), #f8fafc, #94a3b8, rgba(255,255,255,0.12); frosted glass, backdrop blur, translucent overlapping cards.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#a1a1aa",
+        "#818cf8",
+        "#a78bfa",
+        "#0b1220",
+        "rgba(255,255,255,0.06)",
+        "rgba(255,255,255,0.04)",
+        "#f8fafc",
+        "#94a3b8",
+        "rgba(255,255,255,0.12)"
+      ],
+      "seed": 2441708727
+    },
+    {
+      "file": "assets/glassmorphism/illustrations/illustration-4.svg",
+      "category": "illustrations",
+      "style": "glassmorphism",
+      "title": "Build Illustrations Illustration 4",
+      "prompt": "Abstract illustrations for a Glassmorphism styled website; palette #a1a1aa, #818cf8, #a78bfa, #0b1220, rgba(255,255,255,0.06), rgba(255,255,255,0.04), #f8fafc, #94a3b8, rgba(255,255,255,0.12); frosted glass, backdrop blur, translucent overlapping cards.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#a1a1aa",
+        "#818cf8",
+        "#a78bfa",
+        "#0b1220",
+        "rgba(255,255,255,0.06)",
+        "rgba(255,255,255,0.04)",
+        "#f8fafc",
+        "#94a3b8",
+        "rgba(255,255,255,0.12)"
+      ],
+      "seed": 2441708727
+    },
+    {
+      "file": "assets/glassmorphism/illustrations/illustration-5.svg",
+      "category": "illustrations",
+      "style": "glassmorphism",
+      "title": "Build Illustrations Illustration 5",
+      "prompt": "Abstract illustrations for a Glassmorphism styled website; palette #a1a1aa, #818cf8, #a78bfa, #0b1220, rgba(255,255,255,0.06), rgba(255,255,255,0.04), #f8fafc, #94a3b8, rgba(255,255,255,0.12); frosted glass, backdrop blur, translucent overlapping cards.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#a1a1aa",
+        "#818cf8",
+        "#a78bfa",
+        "#0b1220",
+        "rgba(255,255,255,0.06)",
+        "rgba(255,255,255,0.04)",
+        "#f8fafc",
+        "#94a3b8",
+        "rgba(255,255,255,0.12)"
+      ],
+      "seed": 2441708727
+    },
+    {
+      "file": "assets/glassmorphism/mockups/mockup-1.svg",
+      "category": "mockups",
+      "style": "glassmorphism",
+      "title": "Build Mockups UI Mockup 1",
+      "prompt": "Abstract mockups for a Glassmorphism styled website; palette #a1a1aa, #818cf8, #a78bfa, #0b1220, rgba(255,255,255,0.06), rgba(255,255,255,0.04), #f8fafc, #94a3b8, rgba(255,255,255,0.12); frosted glass, backdrop blur, translucent overlapping cards.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#a1a1aa",
+        "#818cf8",
+        "#a78bfa",
+        "#0b1220",
+        "rgba(255,255,255,0.06)",
+        "rgba(255,255,255,0.04)",
+        "#f8fafc",
+        "#94a3b8",
+        "rgba(255,255,255,0.12)"
+      ],
+      "seed": 2441708727
+    },
+    {
+      "file": "assets/glassmorphism/mockups/mockup-2.svg",
+      "category": "mockups",
+      "style": "glassmorphism",
+      "title": "Build Mockups UI Mockup 2",
+      "prompt": "Abstract mockups for a Glassmorphism styled website; palette #a1a1aa, #818cf8, #a78bfa, #0b1220, rgba(255,255,255,0.06), rgba(255,255,255,0.04), #f8fafc, #94a3b8, rgba(255,255,255,0.12); frosted glass, backdrop blur, translucent overlapping cards.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#a1a1aa",
+        "#818cf8",
+        "#a78bfa",
+        "#0b1220",
+        "rgba(255,255,255,0.06)",
+        "rgba(255,255,255,0.04)",
+        "#f8fafc",
+        "#94a3b8",
+        "rgba(255,255,255,0.12)"
+      ],
+      "seed": 2441708727
+    },
+    {
+      "file": "assets/glassmorphism/mockups/mockup-3.svg",
+      "category": "mockups",
+      "style": "glassmorphism",
+      "title": "Build Mockups UI Mockup 3",
+      "prompt": "Abstract mockups for a Glassmorphism styled website; palette #a1a1aa, #818cf8, #a78bfa, #0b1220, rgba(255,255,255,0.06), rgba(255,255,255,0.04), #f8fafc, #94a3b8, rgba(255,255,255,0.12); frosted glass, backdrop blur, translucent overlapping cards.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#a1a1aa",
+        "#818cf8",
+        "#a78bfa",
+        "#0b1220",
+        "rgba(255,255,255,0.06)",
+        "rgba(255,255,255,0.04)",
+        "#f8fafc",
+        "#94a3b8",
+        "rgba(255,255,255,0.12)"
+      ],
+      "seed": 2441708727
+    }
+  ]
+}
